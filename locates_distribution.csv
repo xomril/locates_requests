@@ -1,0 +1,6 @@
+client_name,symbol,number_of_locates_approved
+Client1, ABC,100
+Client2, QQQ,0
+Client2, ABC,100
+Client3, TTT,100
+Client4, QQQ,0
